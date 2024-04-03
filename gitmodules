@@ -1,0 +1,4 @@
+[submodule "testsubmodule"]
+	path = testsubmodule
+	url = ssh://git@github.com:gw-globalization/testsubmodule.git
+	branch = main
